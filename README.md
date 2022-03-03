@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align='center'>Olá visitante 👀</h1>
 
-<!--
-**Norbertoooo/norbertoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🏢 Atualmente trabalhando como desenvolvedor backend
+- 🎓 Formado em engenharia da computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertoooo&hide=contribs,prs,stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbertoooo&layout=compact&hide=javascript,html,css)
+
+
+<h1 align='center'>Principais projetos</h1>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norbertoooo&repo=smartparking-api)](https://github.com/Norbertoooo/smartparking-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norbertoooo&repo=desafio-banco-api)](https://github.com/Norbertoooo/desafio-banco-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norbertoooo&repo=rafa-web-api)](https://github.com/Norbertoooo/rafa-web-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=norbertoooo&repo=rafa-web)](https://github.com/Norbertoooo/rafa-web)
+
+
+<p> <img src="https://komarev.com/ghpvc/?username=norbertoooo&label=Profile%20views&color=ce9927&style=flat" alt="norbertoooo" /> </p>
