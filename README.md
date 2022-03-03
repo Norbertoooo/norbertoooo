@@ -4,8 +4,8 @@
 - 🏢 Atualmente trabalhando como desenvolvedor backend
 - 🎓 Formado em engenharia da computação
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=norbertoooo" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertoooo&hide=contribs,prs,stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbertoooo&layout=compact&hide=javascript,html,css)
 
 
@@ -19,3 +19,5 @@
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=norbertoooo&label=Profile%20views&color=ce9927&style=flat" alt="norbertoooo" /> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertoooo&hide=contribs,prs,stars,issues)
