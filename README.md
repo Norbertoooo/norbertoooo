@@ -3,13 +3,6 @@
 - 🏢 Atualmente trabalhando como desenvolvedor backend
 - 🎓 Formado em Engenharia da Computação
 - 📚 Ultimamente tenho estudado microserviços com spring, design patterns, sistemas embarcados e clojure
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=norbertoooo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norbertoooo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=norbertoooo&layout=compact&langs_count=7&theme=github_dark" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norbertoooo&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
     
 <h1 align='center'>Principais projetos</h1>
 
