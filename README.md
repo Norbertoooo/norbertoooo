@@ -2,7 +2,7 @@
 
 - 🏢 Atualmente trabalhando como desenvolvedor backend
 - 🎓 Formado em Engenharia da Computação
-- 📚 Ultimamente tenho estudado microserviços com spring, design patterns, sistemas embarcados e clojure
+- 📚 Ultimamente tenho estudado microserviços com spring, design patterns, sistemas embarcados e go
     
 <h1 align='center'>Principais projetos</h1>
 
